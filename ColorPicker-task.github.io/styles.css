@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(134, 38, 70);
+}
+.input{
+    margin-left: 150px;
+    margin-top: 300px;
+    height: 210px;
+    width: 210px;
+    border-radius: 5%;
+    background-color: whitesmoke;
+}
+img{
+    width: 30px;
+}
+div{
+    margin-left: 400px;
+    margin-top: -200px;
+    line-height: 0.5;
+}
+h1{
+    font-family: cursive;
+    color: white;
+    font-size: 50px;
+}
+p{
+    color: white;
+    text-transform: uppercase;
+    font-family: sans-serif;
+    word-spacing: 5px;
+    font-size: 30px;
+    letter-spacing: 1px;
+}
+span{
+    background-color: rgba(128, 128, 128, 0.726);
+    padding-top: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+    border-radius: 5%;
+    letter-spacing: 1px;
+}
