@@ -1,6 +1,6 @@
 Hey Everyone!
 <br><br>
-I have just created a <b> Skills Progress Bar </b>
+I have just created a <b><u>Skills Progress Bar</u></b>
 <br><br>
 I took Inspiration From : 
 <br><br>
