@@ -1,0 +1,119 @@
+*{
+    font-size: 18px;
+    font-family: sans-serif;
+}
+body{
+    background-color: rgb(74, 74, 241);
+}
+.progress{
+    margin-left: 500px;
+    margin-top: 200px;
+    background-color: white;
+    width: 940px;
+    height: 550px;
+    border-radius: 20px;
+    box-shadow: 1px 1px 28px black;
+}
+h1{
+    padding-top: 30px;
+    padding-left: 30px;
+    text-align: center;
+    font-size: 22px;
+}
+p{
+    font-weight: lighter;
+    padding-left: 30px;
+    text-align: center;
+    font-size: 18px;
+}
+.progress-bars{
+    padding-left: 30px;
+    padding-top: 20px ;
+}
+
+progress{
+    height: 40px;
+    width: 400px;
+}
+.Team{
+    margin-top: 10px;
+}
+.one{
+    margin-left: 280px;
+}
+.two{
+    margin-left: 290px;
+}
+.three{
+    margin-left: 210px;
+}
+.four{
+    margin-left: 240px;
+}
+.five{
+    margin-left: 233px;
+}
+#file-1{
+    accent-color: green;
+}
+#file-1:hover{
+    accent-color: rgb(57, 87, 57);
+}
+#file-2{ 
+    accent-color: red;
+}
+#file-2:hover{
+    accent-color: rgb(189, 82, 82);
+}
+#file-3{
+    accent-color: rgb(153, 0, 255);
+}
+#file-3:hover{
+    accent-color: rgb(159, 82, 189);
+}
+#file-4{
+    accent-color: rgb(255, 0, 128);
+}
+#file-4:hover{
+    accent-color: rgb(190, 84, 137);
+}
+#file-5{
+    accent-color: rgb(121, 39, 1);
+}
+#file-5:hover{
+    accent-color: rgb(90, 55, 39);
+}
+#file-6{
+    accent-color: rgb(2, 45, 73);
+}
+#file-6:hover{
+    accent-color: rgb(65, 122, 160);
+}
+#file-7{
+    accent-color: rgb(73, 2, 67);
+}
+#file-7:hover{
+    accent-color: rgb(204, 81, 194);
+}
+#file-8{
+    accent-color: rgb(216, 24, 104);
+}
+#file-8:hover{
+    accent-color: rgb(139, 86, 108);
+}
+#file-9{
+    accent-color: rgb(20, 99, 73);
+}
+#file-9:hover{
+    accent-color: rgb(57, 105, 89);
+}
+#file-10{
+    accent-color: rgb(141, 14, 84);
+}
+#file-10:hover{
+    accent-color: rgb(51, 14, 34);
+}
+.progress-bars-2{
+    margin-left: 500px;
+    margin-top: -362px;
+}
